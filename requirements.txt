@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+sentencepiece
+peft
+evaluate
+rouge_score
+accelerate
+bitsandbytes
